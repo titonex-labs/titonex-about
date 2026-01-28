@@ -2,7 +2,7 @@
 
 **Titonex** is a Bangladesh-based technology company focused on building **enterprise-grade software and real-world digital services** for essential sectors. We design scalable, secure, and high-availability systems that support businesses, mobility, healthcare access, and water technology.
 
-Our goal is simple: build technology that works reliably in the real world—especially where responsibility and impact matter most.
+Our goal is simple: build technology that works reliably in the real world-especially where responsibility and impact matter most.
 
 ---
 
@@ -35,19 +35,19 @@ We build B2B, B2C, and industry-focused software, including:
 
 ---
 
-### 🚑 Gari-X — Emergency & Mobility Platform
+### 🚑 Gari-X – Emergency & Mobility Platform
 **Gari-X** is a technology platform (not a transport operator) that enables:
 - Emergency transportation access  
 - On-demand and regular ride services  
 - Airport pickup and drop-off  
-- Long-distance and tour bookings  
+- Long–distance and tour bookings  
 - School pickup and drop services  
 
 The platform is designed to reduce dependency on agents and ensure transparency, accountability, and fair access.
 
 ---
 
-### 🩺 Sustho — Digital Healthcare Support
+### 🩺 Sustho – Digital Healthcare Support
 **Sustho** is a digital healthcare coordination platform that helps users:
 - Consult registered and specialty-specific doctors online  
 - Access senior and nationally recognized doctors remotely  
